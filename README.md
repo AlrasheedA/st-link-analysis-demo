@@ -1,2 +1,6 @@
 # st-link-analysis-demo
-Demo for https://github.com/AlrasheedA/st-link-analysis
+Demo for [st-link-analysis](https://github.com/AlrasheedA/st-link-analysis) streamlit custom component. 
+
+Deployed with Render's free tier here: 
+https://st-link-analysis-demo.onrender.com/
+
