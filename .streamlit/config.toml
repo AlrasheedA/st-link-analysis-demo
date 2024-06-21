@@ -1,5 +1,8 @@
 [client]
-toolbarMode = "minimal"
+toolbarMode = "viewer"
+
+[browser]
+gatherUsageStats = false
 
 [server]
 headless = true
